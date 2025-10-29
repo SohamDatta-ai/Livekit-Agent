@@ -79,11 +79,3 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 
 - For permission issues with microphone/speakers, ensure Windows privacy settings allow apps to access microphone.
 
-## Next steps
-
-- Add `requirements.txt` or `pyproject.toml` if you want a reproducible environment for others.
-- Provide a `.env.example` with the keys referenced above (without secrets).
-
----
-
-If you want, I can also add a `.env.example` file and a minimal `requirements.txt` (based on current venv). Which would you prefer next?
